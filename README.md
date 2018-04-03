@@ -1,5 +1,6 @@
 # Select-Region China
 ## Use
+	npm install cheerio
 	Node app.js
 ## Data
 	data.json
